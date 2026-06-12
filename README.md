@@ -1,0 +1,1 @@
+# resumo-lab-azure-maquinas-virtuais
